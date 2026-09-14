@@ -1,1 +1,1 @@
-initial workspace readme
+Initial workspace for activity-logger

@@ -1,4 +1,1 @@
-# User System Prompt
-
-## User Message
-Please complete the activity-logger task for me.
+This is an user system prompt for activity-logger
